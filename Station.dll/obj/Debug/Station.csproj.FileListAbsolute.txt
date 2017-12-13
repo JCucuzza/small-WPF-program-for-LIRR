@@ -1,0 +1,12 @@
+C:\Users\Laptop\Documents\C# Development\Homework\hw2\Station\Station\obj\Debug\Station.Properties.Resources.resources
+C:\Users\Laptop\Documents\C# Development\Homework\hw2\Station\Station\obj\Debug\Station.csproj.GenerateResource.Cache
+C:\Users\Laptop\Documents\C# Development\Homework\hw2\Station\Station\bin\Debug\Station.dll
+C:\Users\Laptop\Documents\C# Development\Homework\hw2\Station\Station\bin\Debug\Station.pdb
+C:\Users\Laptop\Documents\C# Development\Homework\hw2\Station\Station\obj\Debug\Station.dll
+C:\Users\Laptop\Documents\C# Development\Homework\hw2\Station\Station\obj\Debug\Station.pdb
+C:\Users\Laptop\Documents\C# Development\Homework\hw3\Station\Station\bin\Debug\Station.dll
+C:\Users\Laptop\Documents\C# Development\Homework\hw3\Station\Station\bin\Debug\Station.pdb
+C:\Users\Laptop\Documents\C# Development\Homework\hw3\Station\Station\obj\Debug\Station.Properties.Resources.resources
+C:\Users\Laptop\Documents\C# Development\Homework\hw3\Station\Station\obj\Debug\Station.csproj.GenerateResource.Cache
+C:\Users\Laptop\Documents\C# Development\Homework\hw3\Station\Station\obj\Debug\Station.dll
+C:\Users\Laptop\Documents\C# Development\Homework\hw3\Station\Station\obj\Debug\Station.pdb
