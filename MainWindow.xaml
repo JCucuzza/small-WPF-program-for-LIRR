@@ -1,0 +1,41 @@
+﻿<Window x:Class="jonathancucuzza.bcs450.lirr.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:jonathancucuzza.bcs450.lirr"
+        mc:Ignorable="d"
+        Title="StationCollection - Jonathan Cucuzza" Width="1145.153" Height="652.137">
+    <Grid>
+        <Label x:Name="label_Filename" Content="Filename" Margin="28,27,1042.667,0" VerticalAlignment="Top" Height="27" Width="68" HorizontalAlignment="Left"/>
+        <TextBox x:Name="textBox_Filename" Height="23" Margin="101,30,20.667,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+        <Button x:Name="button_Filename" Click="button_Filename_Click" Content="Open StationCollection From JSON" HorizontalAlignment="Left" Margin="100,59,0,0" VerticalAlignment="Top" Width="197"/>
+        <Label x:Name="label_StationID" Content="Station Id" HorizontalAlignment="Left" Margin="28,95,0,0" VerticalAlignment="Top" Width="60"/>
+        <TextBox x:Name="textBox_StationID" HorizontalAlignment="Left" Height="23" Margin="100,95,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="76"/>
+        <Button x:Name="button_StationID" Click="button_StationID_Click" Content="Show Station Data" HorizontalAlignment="Left" Margin="101,123,0,0" VerticalAlignment="Top" Width="109"/>
+        <Label x:Name="label_Name" Content="Name" HorizontalAlignment="Left" Margin="302,99,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox_Name" Height="23" Margin="410,99,20.667,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+        <Label x:Name="label_Location" Content="Location" HorizontalAlignment="Left" Margin="302,127,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox_Location" Height="23" Margin="410,127,20.667,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+        <Label x:Name="label_FareZone" Content="Fare Zone" HorizontalAlignment="Left" Margin="302,155,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox_FareZone" Height="23" Margin="410,155,20.667,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+        <Label x:Name="label_MileageToPenn" Content="MileageToPenn" HorizontalAlignment="Left" Margin="302,183,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.683,0.261"/>
+        <TextBox x:Name="textBox_MileageToPenn" Height="23" Margin="410,183,20.667,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+        <Label x:Name="label_Picfilename" Content="Picfilename" HorizontalAlignment="Left" Margin="302,211,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox_PicFilename" Height="23" Margin="410,211,20.667,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+        <ListView x:Name="listView" Margin="10,273,9.667,9.667" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn DisplayMemberBinding="{Binding ID}" Header="Id"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding Name}" Header="Name"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding Location}" Header="Location"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding FareZone}" Header="Fare Zone"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding MileageToPenn}" Header="Mileage To Penn"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding PicFilename}" Header="PicFilename"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label x:Name="label_StationCollection" Content="StationCollection" HorizontalAlignment="Left" Margin="10,247,0,0" VerticalAlignment="Top" Width="119"/>
+
+    </Grid>
+</Window>

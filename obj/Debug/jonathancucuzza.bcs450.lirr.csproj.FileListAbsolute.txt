@@ -1,0 +1,16 @@
+C:\Users\Laptop\Documents\C# Development\Homework\hw3\jonathancucuzza.bcs450.lirr\jonathancucuzza.bcs450.lirr\obj\Debug\jonathancucuzza.bcs450.lirr.csprojResolveAssemblyReference.cache
+C:\Users\Laptop\Documents\C# Development\Homework\hw3\jonathancucuzza.bcs450.lirr\jonathancucuzza.bcs450.lirr\obj\Debug\MainWindow.g.cs
+C:\Users\Laptop\Documents\C# Development\Homework\hw3\jonathancucuzza.bcs450.lirr\jonathancucuzza.bcs450.lirr\obj\Debug\App.g.cs
+C:\Users\Laptop\Documents\C# Development\Homework\hw3\jonathancucuzza.bcs450.lirr\jonathancucuzza.bcs450.lirr\obj\Debug\jonathancucuzza.bcs450.lirr_MarkupCompile.cache
+C:\Users\Laptop\Documents\C# Development\Homework\hw3\jonathancucuzza.bcs450.lirr\jonathancucuzza.bcs450.lirr\obj\Debug\jonathancucuzza.bcs450.lirr_MarkupCompile.lref
+C:\Users\Laptop\Documents\C# Development\Homework\hw3\jonathancucuzza.bcs450.lirr\jonathancucuzza.bcs450.lirr\bin\Debug\jonathancucuzza.bcs450.lirr.exe.config
+C:\Users\Laptop\Documents\C# Development\Homework\hw3\jonathancucuzza.bcs450.lirr\jonathancucuzza.bcs450.lirr\bin\Debug\jonathancucuzza.bcs450.lirr.exe
+C:\Users\Laptop\Documents\C# Development\Homework\hw3\jonathancucuzza.bcs450.lirr\jonathancucuzza.bcs450.lirr\bin\Debug\jonathancucuzza.bcs450.lirr.pdb
+C:\Users\Laptop\Documents\C# Development\Homework\hw3\jonathancucuzza.bcs450.lirr\jonathancucuzza.bcs450.lirr\bin\Debug\Station.dll
+C:\Users\Laptop\Documents\C# Development\Homework\hw3\jonathancucuzza.bcs450.lirr\jonathancucuzza.bcs450.lirr\bin\Debug\Station.pdb
+C:\Users\Laptop\Documents\C# Development\Homework\hw3\jonathancucuzza.bcs450.lirr\jonathancucuzza.bcs450.lirr\obj\Debug\MainWindow.baml
+C:\Users\Laptop\Documents\C# Development\Homework\hw3\jonathancucuzza.bcs450.lirr\jonathancucuzza.bcs450.lirr\obj\Debug\jonathancucuzza.bcs450.lirr.g.resources
+C:\Users\Laptop\Documents\C# Development\Homework\hw3\jonathancucuzza.bcs450.lirr\jonathancucuzza.bcs450.lirr\obj\Debug\jonathancucuzza.bcs450.lirr.Properties.Resources.resources
+C:\Users\Laptop\Documents\C# Development\Homework\hw3\jonathancucuzza.bcs450.lirr\jonathancucuzza.bcs450.lirr\obj\Debug\jonathancucuzza.bcs450.lirr.csproj.GenerateResource.Cache
+C:\Users\Laptop\Documents\C# Development\Homework\hw3\jonathancucuzza.bcs450.lirr\jonathancucuzza.bcs450.lirr\obj\Debug\jonathancucuzza.bcs450.lirr.exe
+C:\Users\Laptop\Documents\C# Development\Homework\hw3\jonathancucuzza.bcs450.lirr\jonathancucuzza.bcs450.lirr\obj\Debug\jonathancucuzza.bcs450.lirr.pdb
